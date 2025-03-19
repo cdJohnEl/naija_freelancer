@@ -1,0 +1,126 @@
+2025-03-09 14:08:05,951 - job_scraper - WARNING - Firebase initialization failed: [Errno 2] No such file or directory: 'firebase-key.json'
+2025-03-09 14:08:05,956 - job_scraper - INFO - Using local JSON storage instead
+2025-03-09 14:08:05,961 - job_scraper - INFO - Starting job scraper run
+2025-03-09 14:08:07,138 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=web+developer&l=Nigeria&sort=date
+2025-03-09 14:08:09,635 - job_scraper - WARNING - Firebase initialization failed: [Errno 2] No such file or directory: 'firebase-key.json'
+2025-03-09 14:08:09,636 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 14:08:09,643 - job_scraper - INFO - Using local JSON storage instead
+2025-03-09 14:08:09,645 - job_scraper - INFO - Starting job scraper run
+2025-03-09 14:08:09,651 - werkzeug - INFO -  * Debugger PIN: 821-318-028
+2025-03-09 14:08:10,917 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=web+developer&l=Nigeria&sort=date
+2025-03-09 14:08:11,634 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=software+engineer&l=Nigeria&sort=date
+2025-03-09 14:08:15,829 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=software+engineer&l=Nigeria&sort=date
+2025-03-09 14:08:16,853 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=designer&l=Nigeria&sort=date
+2025-03-09 14:08:20,949 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=marketing&l=Nigeria&sort=date
+2025-03-09 14:08:22,504 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=designer&l=Nigeria&sort=date
+2025-03-09 14:08:26,265 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=content+writer&l=Nigeria&sort=date
+2025-03-09 14:08:26,947 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=marketing&l=Nigeria&sort=date
+2025-03-09 14:08:31,513 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=content+writer&l=Nigeria&sort=date
+2025-03-09 14:08:34,144 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'developer'
+2025-03-09 14:08:38,484 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'developer'
+2025-03-09 14:08:39,568 - werkzeug - INFO -  * Detected change in 'C:\\Users\\cdJohnEl\\Desktop\\Code\\Mini-Projects\\Job-Board-Portfolio\\app.py', reloading
+2025-03-09 14:08:39,805 - werkzeug - INFO -  * Restarting with stat
+2025-03-09 14:08:40,991 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'designer'
+2025-03-09 14:08:42,728 - job_scraper - WARNING - Firebase initialization failed: [Errno 2] No such file or directory: 'firebase-key.json'
+2025-03-09 14:08:42,728 - werkzeug - WARNING -  * Debugger is active!
+2025-03-09 14:08:42,729 - job_scraper - INFO - Using local JSON storage instead
+2025-03-09 14:08:42,731 - job_scraper - INFO - Starting job scraper run
+2025-03-09 14:08:42,737 - werkzeug - INFO -  * Debugger PIN: 821-318-028
+2025-03-09 14:08:45,013 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=web+developer&l=Nigeria&sort=date
+2025-03-09 14:08:47,543 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'marketing'
+2025-03-09 14:08:49,256 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=software+engineer&l=Nigeria&sort=date
+2025-03-09 14:08:53,600 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'writer'
+2025-03-09 14:08:54,730 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=designer&l=Nigeria&sort=date
+2025-03-09 14:08:58,553 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=marketing&l=Nigeria&sort=date
+2025-03-09 14:09:00,504 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'project manager'
+2025-03-09 14:09:03,906 - job_scraper - INFO - Added 0 new jobs to JSON file
+2025-03-09 14:09:03,909 - job_scraper - INFO - Completed job scraper run, processed 0 jobs
+2025-03-09 14:09:04,929 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=content+writer&l=Nigeria&sort=date
+2025-03-09 14:09:10,027 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'developer'
+2025-03-09 14:11:19,217 - job_scraper - INFO - Firebase initialized successfully
+2025-03-09 14:11:19,219 - job_scraper - INFO - Starting job scraper run
+2025-03-09 14:11:21,511 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=web+developer&l=Nigeria&sort=date
+2025-03-09 14:11:27,936 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=software+engineer&l=Nigeria&sort=date
+2025-03-09 14:11:32,512 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=designer&l=Nigeria&sort=date
+2025-03-09 14:11:40,666 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=marketing&l=Nigeria&sort=date
+2025-03-09 14:11:43,530 - job_scraper - ERROR - Error scraping Indeed: 403 Client Error: Forbidden for url: https://ng.indeed.com/jobs?q=content+writer&l=Nigeria&sort=date
+2025-03-09 14:11:47,518 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'developer'
+2025-03-09 14:11:54,384 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'designer'
+2025-03-09 14:12:06,090 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'marketing'
+2025-03-09 14:12:10,038 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'writer'
+2025-03-09 14:12:14,368 - job_scraper - INFO - Scraped 0 jobs from Jobberman for query 'project manager'
+2025-03-09 14:12:18,678 - job_scraper - ERROR - Error saving to Firebase: 404 The database (default) does not exist for project naijafreelance-802e2 Please visit https://console.cloud.google.com/datastore/setup?project=naijafreelance-802e2 to add a Cloud Datastore or Cloud Firestore database. 
+2025-03-09 14:12:18,681 - job_scraper - INFO - Added 0 new jobs to JSON file
+2025-03-09 14:12:18,682 - job_scraper - INFO - Completed job scraper run, processed 0 jobs
+2025-03-09 14:12:18,683 - job_scraper - INFO - Job scraper scheduled to run every 6 hours
+2025-03-09 14:29:22,732 - job_scraper - INFO - Firebase initialized successfully
+2025-03-09 14:29:22,733 - job_scraper - INFO - Starting job scraper run
+2025-03-09 14:29:31,697 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'developer'
+2025-03-09 14:29:41,886 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'designer'
+2025-03-09 14:29:53,601 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'marketing'
+2025-03-09 14:30:01,605 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'writer'
+2025-03-09 14:30:06,666 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'project manager'
+2025-03-09 14:30:23,022 - job_scraper - INFO - Added 25 new jobs to Firebase
+2025-03-09 14:30:23,030 - job_scraper - INFO - Added 18 new jobs to JSON file
+2025-03-09 14:30:23,031 - job_scraper - INFO - Completed job scraper run, processed 25 jobs
+2025-03-09 14:30:23,033 - job_scraper - INFO - Job scraper scheduled to run every 6 hours
+2025-03-09 20:30:23,543 - job_scraper - INFO - Starting job scraper run
+2025-03-09 20:30:40,457 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'developer'
+2025-03-09 20:30:50,188 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'designer'
+2025-03-09 20:31:06,789 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'marketing'
+2025-03-09 20:31:12,526 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'writer'
+2025-03-09 20:31:17,237 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'project manager'
+2025-03-09 20:31:24,392 - job_scraper - INFO - Added 10 new jobs to Firebase
+2025-03-09 20:31:24,469 - job_scraper - INFO - Added 8 new jobs to JSON file
+2025-03-09 20:31:24,471 - job_scraper - INFO - Completed job scraper run, processed 25 jobs
+2025-03-10 16:42:13,549 - job_scraper - INFO - Starting job scraper run
+2025-03-10 16:42:30,145 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'developer'
+2025-03-10 16:42:40,738 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'designer'
+2025-03-10 16:42:59,316 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'marketing'
+2025-03-10 16:43:07,193 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'writer'
+2025-03-10 16:43:14,423 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'project manager'
+2025-03-10 16:43:27,619 - job_scraper - INFO - Added 16 new jobs to Firebase
+2025-03-10 16:43:27,635 - job_scraper - INFO - Added 13 new jobs to JSON file
+2025-03-10 16:43:27,637 - job_scraper - INFO - Completed job scraper run, processed 25 jobs
+2025-03-10 17:36:34,705 - job_scraper - WARNING - Firebase initialization failed: [Errno 2] No such file or directory: 'firebase-key.json'
+2025-03-10 17:36:34,706 - job_scraper - INFO - Using local JSON storage instead
+2025-03-10 17:36:34,707 - job_scraper - INFO - Starting job scraper run
+2025-03-10 17:36:38,187 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'developer'
+2025-03-10 17:36:40,977 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'designer'
+2025-03-10 17:36:45,634 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'marketing'
+2025-03-10 17:36:49,339 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'writer'
+2025-03-10 17:36:52,060 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'project manager'
+2025-03-10 17:36:53,439 - job_scraper - INFO - Added 0 new jobs to JSON file
+2025-03-10 17:36:53,441 - job_scraper - INFO - Completed job scraper run, processed 25 jobs
+2025-03-10 17:36:53,442 - job_scraper - INFO - Job scraper scheduled to run every 6 hours
+2025-03-13 20:40:19,034 - job_scraper - INFO - Firebase initialized successfully
+2025-03-13 20:40:19,042 - job_scraper - INFO - Starting job scraper run
+2025-03-13 20:40:33,497 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'developer'
+2025-03-13 20:40:45,854 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'designer'
+2025-03-13 20:41:02,158 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'marketing'
+2025-03-13 20:41:09,423 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'writer'
+2025-03-13 20:41:15,841 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'project manager'
+2025-03-13 20:41:33,741 - job_scraper - INFO - Added 20 new jobs to Firebase
+2025-03-13 20:41:33,793 - job_scraper - INFO - Added 17 new jobs to JSON file
+2025-03-13 20:41:33,800 - job_scraper - INFO - Completed job scraper run, processed 25 jobs
+2025-03-13 20:41:33,801 - job_scraper - INFO - Job scraper scheduled to run every 6 hours
+2025-03-14 14:01:03,499 - job_scraper - INFO - Starting job scraper run
+2025-03-14 14:01:15,566 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'developer'
+2025-03-14 14:01:24,301 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'designer'
+2025-03-14 14:01:36,788 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'marketing'
+2025-03-14 14:01:43,749 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'writer'
+2025-03-14 14:01:49,415 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'project manager'
+2025-03-14 14:02:02,455 - job_scraper - INFO - Added 22 new jobs to Firebase
+2025-03-14 14:02:02,469 - job_scraper - INFO - Added 19 new jobs to JSON file
+2025-03-14 14:02:02,470 - job_scraper - INFO - Completed job scraper run, processed 25 jobs
+2025-03-19 16:18:33,751 - job_scraper - INFO - Firebase initialized successfully
+2025-03-19 16:18:33,758 - job_scraper - INFO - Starting job scraper run
+2025-03-19 16:18:50,366 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'developer'
+2025-03-19 16:18:58,287 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'designer'
+2025-03-19 16:19:13,662 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'marketing'
+2025-03-19 16:19:18,718 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'writer'
+2025-03-19 16:19:23,726 - job_scraper - INFO - Scraped 5 jobs from Remotive for query 'project manager'
+2025-03-19 16:19:38,765 - job_scraper - INFO - Added 24 new jobs to Firebase
+2025-03-19 16:19:38,807 - job_scraper - INFO - Added 18 new jobs to JSON file
+2025-03-19 16:19:38,808 - job_scraper - INFO - Completed job scraper run, processed 25 jobs
+2025-03-19 16:19:38,809 - job_scraper - INFO - Job scraper scheduled to run every 6 hours

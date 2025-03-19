@@ -1,0 +1,2338 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "company": "TechNaija",
+    "location": "Lagos, Nigeria",
+    "description": "We're looking for a skilled frontend developer to join our team.",
+    "requirements": "3+ years of experience with HTML, CSS, and JavaScript.",
+    "salary": "\u00e2\u201a\u00a6250,000 - \u00e2\u201a\u00a6350,000",
+    "type": "Full-time",
+    "tags": [
+      "Frontend",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "posted_at": "2023-03-01T12:00:00"
+  },
+  {
+    "id": "2",
+    "title": "Python Developer",
+    "company": "FinTech Solutions",
+    "location": "Remote (Nigeria)",
+    "description": "Join our team to build scalable backend systems.",
+    "requirements": "Experience with Python and Flask/Django.",
+    "salary": "\u00e2\u201a\u00a6300,000 - \u00e2\u201a\u00a6450,000",
+    "type": "Contract",
+    "tags": [
+      "Backend",
+      "Python",
+      "Flask",
+      "Django"
+    ],
+    "posted_at": "2023-03-02T10:30:00"
+  },
+  {
+    "id": "3",
+    "title": "UI/UX Designer",
+    "company": "Creative Studios",
+    "location": "Abuja, Nigeria",
+    "description": "Design beautiful and functional user interfaces for our clients.",
+    "requirements": "Portfolio showcasing UI/UX projects.",
+    "salary": "\u00e2\u201a\u00a6200,000 - \u00e2\u201a\u00a6350,000",
+    "type": "Part-time",
+    "tags": [
+      "Design",
+      "UI",
+      "UX",
+      "Figma"
+    ],
+    "posted_at": "2023-03-03T09:15:00"
+  },
+  {
+    "id": "4",
+    "title": "Full Stack Developer",
+    "company": "E-commerce Nigeria",
+    "location": "Lagos, Nigeria",
+    "description": "Help us build the future of e-commerce in Nigeria.",
+    "requirements": "Experience with MERN or similar stack.",
+    "salary": "\u00e2\u201a\u00a6400,000 - \u00e2\u201a\u00a6600,000",
+    "type": "Full-time",
+    "tags": [
+      "Full Stack",
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "posted_at": "2023-03-04T14:45:00"
+  },
+  {
+    "id": "5",
+    "title": "Content Writer",
+    "company": "Digital Marketing Agency",
+    "location": "Remote (Nigeria)",
+    "description": "Create engaging content for our clients in the tech industry.",
+    "requirements": "Excellent writing skills and SEO knowledge.",
+    "salary": "\u00e2\u201a\u00a6150,000 - \u00e2\u201a\u00a6250,000",
+    "type": "Freelance",
+    "tags": [
+      "Content",
+      "Writing",
+      "SEO"
+    ],
+    "posted_at": "2023-03-05T11:20:00"
+  },
+  {
+    "id": "5",
+    "title": "Backend Developer",
+    "company": "Microfinance Bank",
+    "location": "Remote (Nigeria)",
+    "description": "Join our team to build scalable backend systems.",
+    "requirements": "Experience with Python and Flask/Django.",
+    "salary": "\u00e2\u201a\u00a6300,000 - \u00e2\u201a\u00a6450,000",
+    "type": "Freelance",
+    "tags": [
+      "Content",
+      "Writing",
+      "SEO"
+    ],
+    "posted_at": "2023-03-05T11:20:00"
+  },
+  {
+    "id": "5422cf50-3b52-4ac5-807d-48232a84d833",
+    "title": "Senior DevOps Engineer/ Consultant",
+    "company": "liatrio",
+    "company_logo": "L",
+    "location": "USA, Canada",
+    "description": "About LiatrioLiatrio is a boutique consulting firm that helps enterprises deliver software faster, safer, and more efficiently. Our work is dual mode: engineering delivery and people enablement. We le...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-09T14:29:31.669578",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-consultant-1980972"
+  },
+  {
+    "id": "30680c2f-e231-468f-b845-3c6bc2098acd",
+    "title": "Site Reliability Engineer",
+    "company": "Ensono",
+    "company_logo": "E",
+    "location": "USA",
+    "description": "At Ensono, our Purpose is to be a relentless ally, disrupting the status quo and unleashing our clients to Do Great Things!\u00a0 We enable our clients to achieve key business outcomes that reshape how our...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-09T14:29:31.679140",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/devops/site-reliability-engineer-1980978"
+  },
+  {
+    "id": "ea9410d9-9991-41c8-bc53-3f0fea1190d8",
+    "title": "Technical Business Analyst",
+    "company": "Isf",
+    "company_logo": "I",
+    "location": "USA",
+    "description": "Technical Business Analyst\u00a0\u00a0JOB OVERVIEWJOB TITLEJunior Project Manager/Technical Business Analyst \u00a0\u00a0DIVISION/DEPARTMENTInformation TechnologyLOCATIONHybrid/RemoteREPORTS TO:Project Manager/Technical ...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer"
+    ],
+    "posted_at": "2025-03-09T14:29:31.691580",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/data/technical-business-analyst-1981693"
+  },
+  {
+    "id": "100168d5-f5bc-4ad2-be7b-6f2dfba37d61",
+    "title": "Project Manager",
+    "company": "Printify",
+    "company_logo": "P",
+    "location": "Estonia, Latvia",
+    "description": "In November 2024, Printful and Printify came together as two equals and merged to form a global on-demand powerhouse. This role will involve working across our two platforms and brands, a unique and s...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer"
+    ],
+    "posted_at": "2025-03-09T14:29:31.694288",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/project-manager-1981619"
+  },
+  {
+    "id": "164b8233-1be9-42f9-8ce9-b6abd11d7845",
+    "title": "Project Manager - Salesforce Implementation",
+    "company": "Technitask",
+    "company_logo": "T",
+    "location": "Canada",
+    "description": "Why TechnitaskTechnitask is a Canadian company and a trusted provider of IT management, systems integration, software delivery, and consulting services. Our expert team of SAP functional consultants, ...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer"
+    ],
+    "posted_at": "2025-03-09T14:29:31.697650",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/project-manager-salesforce-implementation-1981623"
+  },
+  {
+    "id": "6b8e2b58-870b-4d07-8ecc-b5fe14d008b9",
+    "title": "Game Designer V",
+    "company": "Delart - BL",
+    "company_logo": "D",
+    "location": "USA",
+    "description": "Game Designer V\n\nJob Description:\u00a0\nThe team is looking for a Game Designer V who has a specialty in designing quests, events, and content for live operations games. This is critical to expanding the c...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "designer",
+      "Design"
+    ],
+    "posted_at": "2025-03-09T14:29:41.874024",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/all-others/game-designer-v-1981705"
+  },
+  {
+    "id": "c7b63293-8c5a-41d3-8ec2-931f73b94e2a",
+    "title": "Senior Product Manager",
+    "company": "OpenPhone",
+    "company_logo": "O",
+    "location": "Canada",
+    "description": "For millions of teams working in dozens of industries, day-to-day business gets done on the phone. So why \u2014 despite the huge leaps we've taken in design and usability \u2014 does most business phone softwa...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer"
+    ],
+    "posted_at": "2025-03-09T14:29:41.880637",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/product/senior-product-manager-1980319"
+  },
+  {
+    "id": "e93a4448-ed00-485b-aa89-3143557d4ade",
+    "title": "UX/UI Web Designer",
+    "company": "Fetch",
+    "company_logo": "F",
+    "location": "USA",
+    "description": "What we\u2019re building and why we\u2019re building it.\u00a0\nEvery month, millions of people use America\u2019s Rewards App, earning rewards for buying brands they love \u2013 and a whole lot more. Whether shopping in the g...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "designer",
+      "Design"
+    ],
+    "posted_at": "2025-03-09T14:29:41.884040",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/ux-ui-web-designer-1981664"
+  },
+  {
+    "id": "da99f55e-bd9b-4346-99c8-c3397a2353db",
+    "title": "Graphic Designer",
+    "company": "Themis Solutions Inc.",
+    "company_logo": "T",
+    "location": "Canada",
+    "description": "\n This description is a summary of our understanding of the job description. Click on 'Apply' button to find out more.\n\n\n\n\n Role Description\n\n\n This role involves being part of the team responsible fo...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "designer",
+      "Design"
+    ],
+    "posted_at": "2025-03-09T14:29:41.885409",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/graphic-designer-1981663"
+  },
+  {
+    "id": "396b0c61-0236-41ea-a4ed-2547c399bde7",
+    "title": "Lead Product Designer",
+    "company": "Stackedsp",
+    "company_logo": "S",
+    "location": "Canada",
+    "description": "About the company:Company Size: <20 PeopleIndustry: Legal Tech, AI, SaaSApprox. Funding: ~$5MCompany Stage: SeedInvestors: Backed by top-tier investors behind companies like Figma, Instacart, and Door...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer",
+      "Design"
+    ],
+    "posted_at": "2025-03-09T14:29:41.886459",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/lead-product-designer-1981708"
+  },
+  {
+    "id": "ec5354da-222e-43c7-a03d-2770414eef3f",
+    "title": "Principal Product Manager, Web3",
+    "company": "LLC--Circle Internet Financial, LLC",
+    "company_logo": "L",
+    "location": "USA",
+    "description": "\n This description is a summary of our understanding of the job description. Click on 'Apply' button to find out more.\n\n\n\n\n Role Description\n\n\n Circle is looking for a Product Manager to build new API...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-09T14:29:53.599371",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/product/principal-product-manager-web3-1980323"
+  },
+  {
+    "id": "ef4adcbd-b00c-4b26-b133-0960ff8e13f9",
+    "title": "Senior Sales Engineer",
+    "company": "Motive",
+    "company_logo": "M",
+    "location": "USA",
+    "description": "Who we are:\nMotive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance te...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "marketing",
+      "Development"
+    ],
+    "posted_at": "2025-03-09T14:29:53.601953",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/sales-business/senior-sales-engineer-1981611"
+  },
+  {
+    "id": "9af71ccb-2752-455d-bf47-d8449b675222",
+    "title": "Quiz Producer & Lead Writer",
+    "company": "Saturday Quiz Time",
+    "company_logo": "S",
+    "location": "Australia",
+    "description": "Saturday Quiz Time is a weekly publication that sends thousands of Australians a jam-packed edition of quizzes and puzzles every Saturday morning.Can you take us to the next level? We're looking for a...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-09T14:30:01.590539",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/quiz-producer-lead-writer-1980395"
+  },
+  {
+    "id": "4b1acb51-beff-4e94-9a17-5c077997c20f",
+    "title": "Technical Writer",
+    "company": "Limble",
+    "company_logo": "L",
+    "location": "USA",
+    "description": "About LimbleAt Limble, we empower the unsung heroes who support the world. We've built the #1 Maintenance Management SaaS (CMMS) platform in an industry projected to double over the next five years. O...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-09T14:30:01.594445",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/technical-writer-1980149"
+  },
+  {
+    "id": "3df8be9e-89f4-4da0-8e1d-aa8fa1c9bffc",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Jackbox Games",
+    "company_logo": "J",
+    "location": "USA",
+    "description": "Jackbox Games is looking for an exceptional Site Reliability Engineer (with Go Experience) to join our remote team.Who are We?Jackbox is a small game studio (~80 people) best known for our Jackbox Par...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "writer",
+      "Development"
+    ],
+    "posted_at": "2025-03-09T14:30:01.603451",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/devops/senior-site-reliability-engineer-1980979"
+  },
+  {
+    "id": "8a0b7812-9fc9-4e90-b398-a64099986a1b",
+    "title": "Senior UX Writer & Content Strategist",
+    "company": "Jabra Hearing",
+    "company_logo": "J",
+    "location": "USA",
+    "description": "Hi, we\u2019re Jabra Hearing.\u00a0\nWe\u2019re on a mission to empower tens of millions of people to hear better through convenient, personalized hearing care \u2014 at a fraction of the cost thanks to telemedicine. In t...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-09T14:30:01.605417",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/senior-ux-writer-content-strategist-1980523"
+  },
+  {
+    "id": "bede6c5d-0443-4115-aa78-8708cf3fe8e9",
+    "title": "Project Manager",
+    "company": "Rehire",
+    "company_logo": "R",
+    "location": "Argentina",
+    "description": "Role Overview We are looking for a Project Manager with experience in end-to-end project management, from planning and execution to successful delivery on client workflows. The candidate will be respo...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-09T14:30:06.662668",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/project-manager-1981683"
+  },
+  {
+    "id": "433b642b-1b5d-4962-b81c-ccf9a24c3389",
+    "title": "Senior Project Manager",
+    "company": "Unanet",
+    "company_logo": "U",
+    "location": "USA",
+    "description": "Our team is seeking a results-driven and customer-oriented Senior Project Manager to oversee the implementation of one of our rapidly expanding product offerings. In this role, you will work closely w...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-09T14:30:06.666466",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/senior-project-manager-1979230"
+  },
+  {
+    "id": "bbe6857e-68b4-44d1-b8a7-bd5af71899a9",
+    "title": "Senior Project Manager",
+    "company": "Bixal",
+    "company_logo": "B",
+    "location": "USA",
+    "description": "Important Notice for Applicants:  At Bixal, we want to ensure a transparent and secure application process for all candidates. Official communication will come from an email address ending in @bixal.c...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer"
+    ],
+    "posted_at": "2025-03-09T20:30:40.433324",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/senior-project-manager-1981513"
+  },
+  {
+    "id": "795f213e-b2cb-4dc8-8e6b-79621d17ca65",
+    "title": "Sales Development Representative",
+    "company": "Butterflymx",
+    "company_logo": "B",
+    "location": "Canada",
+    "description": "Our Mission:ButterflyMX is on a mission to empower people to open and manage doors & gates from a smartphone. Our products are installed in more than 15,000+ multifamily, commercial, gated communities...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer"
+    ],
+    "posted_at": "2025-03-09T20:30:40.435650",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/sales-business/sales-development-representative-1981607"
+  },
+  {
+    "id": "82b074aa-9cd2-43b9-b579-628ba9621dbc",
+    "title": "Junior Social Media Manager",
+    "company": "Keywords Studios",
+    "company_logo": "K",
+    "location": "Mexico",
+    "description": "Please note the applications are open to candidates based anywhere in Mexico, so feel free to apply regardless of location as those will be 100% remote, Work-From-Home roles.Digital Media Management (...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer"
+    ],
+    "posted_at": "2025-03-09T20:30:40.439713",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/junior-social-media-manager-1981486"
+  },
+  {
+    "id": "c19e00e9-c12b-4854-b7c4-94b7bf965b4a",
+    "title": "Senior Product Designer",
+    "company": "Acorns",
+    "company_logo": "A",
+    "location": "USA",
+    "description": "At Acorns, our mission is to look after the financial best interests of the up-and-coming, beginning with the empowering, proud step of micro-investing. How do we accomplish our mission? Our values. L...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer",
+      "Design"
+    ],
+    "posted_at": "2025-03-09T20:30:50.179457",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/senior-product-designer-1981662"
+  },
+  {
+    "id": "4fca98fe-d80e-49a3-88f1-5f620e7284e4",
+    "title": "Operations Integration and Experience Manager",
+    "company": "Self Financial",
+    "company_logo": "S",
+    "location": "USA",
+    "description": "Self Financial is a venture-backed, high-growth FinTech company with a mission to increase economic inclusion and financial resilience by empowering people to build credit and build savings.\nWe're loo...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-09T20:31:06.773143",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/operations-integration-and-experience-manager-1981361"
+  },
+  {
+    "id": "5b660649-de57-424b-845b-4fdc4be93cd8",
+    "title": "Head of Analytics",
+    "company": "Softgames",
+    "company_logo": "S",
+    "location": "Germany",
+    "description": "Are you ready to lead the charge in analytics at SOFTGAMES? We\u2019re looking for a Head of Analytics - Fully Remote\u00a0to drive our data strategy and empower our teams with game-changing insights\u2014sometimes ...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-09T20:31:06.779060",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/data/head-of-analytics-1981690"
+  },
+  {
+    "id": "142d7bed-d7ed-4aa1-a619-b66adc9439a5",
+    "title": "Sales Development Representative",
+    "company": "Abnormal Security",
+    "company_logo": "A",
+    "location": "Brazil",
+    "description": "About the Job\nWe are hiring the \u201cbest of the best\u201d sales professionals who are passionate about their craft and want to continue to excel within our elite sales organization. Our Sales Development Rep...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-09T20:31:06.781022",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/sales-business/sales-development-representative-1981494"
+  },
+  {
+    "id": "8ea020d1-092d-4c5a-a4db-d4e4e7df0356",
+    "title": "Brand Copy Lead",
+    "company": "Bobbie",
+    "company_logo": "B",
+    "location": "USA",
+    "description": "About Bobbie\nBobbie is creating a parenting culture of confidence, not comparison. And it starts with how we choose to feed our babies. We crafted our European style infant formula with purposefully s...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "writer"
+    ],
+    "posted_at": "2025-03-09T20:31:12.526155",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/brand-copy-lead-1980522"
+  },
+  {
+    "id": "566b26a0-7689-4333-affb-ac3cdce12f7d",
+    "title": "Software Quality Assurance Engineer",
+    "company": "HeartFlow",
+    "company_logo": "H",
+    "location": "USA",
+    "description": "Heartflow is a medical technology company advancing the diagnosis and management of coronary artery disease, the #1 cause of death worldwide, using cutting-edge technology. The flagship product\u2014an AI-...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-10T16:42:30.123557",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/qa/software-quality-assurance-engineer-1980858"
+  },
+  {
+    "id": "964a7aa1-a6bf-4997-acd9-6bec55fcd7b7",
+    "title": "UX Designer",
+    "company": "Discogs",
+    "company_logo": "D",
+    "location": "USA",
+    "description": "Who We\u2019re Looking ForWe're reimagining our products to be the ultimate journey for music lovers and record collectors worldwide. This is an opportunity to join us at a pivotal moment as we streamline ...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer",
+      "Design"
+    ],
+    "posted_at": "2025-03-10T16:42:30.132320",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/ux-designer-1981589"
+  },
+  {
+    "id": "4c30e82d-be5b-4f98-834d-e05ffa0263a3",
+    "title": "Data Engineer",
+    "company": "Mitiga Solutions",
+    "company_logo": "M",
+    "location": "Spain",
+    "description": "Description\nOur mission\n\u00a0\nClimate change is causing deep uncertainty at all levels of society, with climate volatility reducing the security of all land-based assets and posing a multi-level security ...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-10T16:42:30.135741",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/data-engineer-1981022"
+  },
+  {
+    "id": "7f264380-14ca-4844-951f-2c76c3fa22af",
+    "title": "Senior Full-Stack Desktop Developer",
+    "company": "Logos",
+    "company_logo": "L",
+    "location": "Mexico",
+    "description": "\nApply\n\nDescription\nAbout Logos:Logos is a purpose-driven tech company dedicated to building technology solutions that equip the Church to grow in the light of the Bible. Our team is committed to incr...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-10T16:42:30.139288",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-full-stack-desktop-developer-1981024"
+  },
+  {
+    "id": "77ddaf22-7892-4cb3-9c31-4c6c463180ba",
+    "title": "Software Developer",
+    "company": "Hive.co",
+    "company_logo": "H",
+    "location": "Canada",
+    "description": "Hive is launching a brand new Ads team, and we\u2019re looking for a second engineer to help build it from the ground up! As one of the founding members, you\u2019ll have an opportunity to shape not only the pr...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-10T16:42:30.145245",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/software-developer-1981452"
+  },
+  {
+    "id": "5ff08a52-a5e0-4361-8c18-5d62d045df33",
+    "title": "Senior Product Manager",
+    "company": "Granicus",
+    "company_logo": "G",
+    "location": "USA",
+    "description": "The Company\u00a0\nServing the People Who Serve the People\u00a0\n\u00a0\nGranicus is driven by the excitement of building, implementing, and maintaining technology that is transforming the Govtech industry by bringing...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer"
+    ],
+    "posted_at": "2025-03-10T16:42:40.700386",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/product/senior-product-manager-1981351"
+  },
+  {
+    "id": "a1f83c0d-6fab-4e0f-8c6a-d5edb81c389a",
+    "title": "Director of Conversion Rate Optimization",
+    "company": "Directive",
+    "company_logo": "D",
+    "location": "USA",
+    "description": "Directive Consulting is a global leader in SaaS marketing, renowned for our Customer Generation methodology, which focuses on driving qualified leads and conversions for our clients. We are seeking a ...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "designer"
+    ],
+    "posted_at": "2025-03-10T16:42:40.709623",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/director-of-conversion-rate-optimization-1981323"
+  },
+  {
+    "id": "7541c03d-6bfa-4701-9759-b6735bbb7926",
+    "title": "Graphic / Marketing Designer",
+    "company": "Flyer One Ventures",
+    "company_logo": "F",
+    "location": "Ukraine",
+    "description": "We are currently searching for a talented Graphic/Marketing Designer for a product company,\u00a0Liki24.com.Liki24 is a marketplace of healthcare products and services. Our mission\u00a0is making health afforda...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "designer",
+      "Design",
+      "Marketing"
+    ],
+    "posted_at": "2025-03-10T16:42:40.713763",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/graphic-marketing-designer-1981475"
+  },
+  {
+    "id": "83179bc2-cf2b-491c-b904-e0d3973ea2d0",
+    "title": "Market & Product Analyst",
+    "company": "Continued",
+    "company_logo": "C",
+    "location": "USA",
+    "description": "Location: RemoteWork anywhere in the US, must live in the USWe are seeking a talented Market & Product Analyst to join our Strategy and Growth Team to help shape the ongoing success and growth of our ...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing",
+      "Marketing"
+    ],
+    "posted_at": "2025-03-10T16:42:59.281399",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/data/market-product-analyst-1981631"
+  },
+  {
+    "id": "63ced26a-d6de-454a-aa6a-4a0a562681bc",
+    "title": "Project Manager",
+    "company": "Sigma Software",
+    "company_logo": "S",
+    "location": "Europe",
+    "description": "Company DescriptionAre you a highly organized and detail-oriented Project Manager ready to take on exciting challenges? We want to hear from you!\u00a0\n\u00a0If you're adaptable to changing project demands, sel...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-10T16:42:59.287179",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/project-manager-1981360"
+  },
+  {
+    "id": "88dda223-932f-4dbc-aee9-7752113d3ccf",
+    "title": "Account Executive",
+    "company": "JumpCloud",
+    "company_logo": "J",
+    "location": "Greece",
+    "description": "All roles at JumpCloud\u00ae are Remote unless otherwise specified in the Job Description. About JumpCloud\u00aeJumpCloud\u00ae delivers a unified open directory platform that makes it easy to securely manage identi...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-10T16:42:59.293890",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/sales-business/account-executive-1981337"
+  },
+  {
+    "id": "5ce04b1a-43c2-457d-91f9-3ce830c9a37b",
+    "title": "Director, Product Marketing",
+    "company": "Springhealth",
+    "company_logo": "S",
+    "location": "USA",
+    "description": "Our mission: to eliminate every barrier to mental health.\nAt Spring Health, we\u2019re on a mission to revolutionize mental healthcare by removing every barrier that prevents people from getting the help t...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing",
+      "Marketing"
+    ],
+    "posted_at": "2025-03-10T16:42:59.316756",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/director-product-marketing-1981324"
+  },
+  {
+    "id": "f022f396-86eb-4a70-9e03-e70cc62c124b",
+    "title": "SEO Content Writer",
+    "company": "Odds Scanner",
+    "company_logo": "O",
+    "location": "Remote (Nigeria)",
+    "description": "Your mission\nOdds Scanner is looking for a Spanish-speaking SEO Content Writer to join our remote full-time team focused on the sports betting industry.\u00a0If you\u2019re looking for an opportunity to grow in...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-10T16:43:07.181653",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/seo-content-writer-1979566"
+  },
+  {
+    "id": "8d6a8586-814f-41c8-b6a2-e2aae02c06dc",
+    "title": "Senior Front-end Developer",
+    "company": "CapIntel Inc.",
+    "company_logo": "C",
+    "location": "Canada",
+    "description": "Since launching in 2019, CapIntel has been on a mission to provide magical financial moments for all: investors, wealth professionals, and our customers.\nOur innovative proposal generation platform tr...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-13T20:40:33.483711",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1983532"
+  },
+  {
+    "id": "bc4e3ff0-05ac-41a3-814f-31b37b2528b0",
+    "title": "Senior Backend Developer \u2014 Typescript",
+    "company": "Mimo GmbH",
+    "company_logo": "M",
+    "location": "Remote (Nigeria)",
+    "description": "We\u2019re looking for someone based within the UTC 0 to UTC+2 time zones.\n\u00a0\nOur mission\nAt Mimo, we believe that coding can open doors to careers and opportunities like few other skills. We aim to provide...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-13T20:40:33.489181",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-backend-developer-typescript-1983726"
+  },
+  {
+    "id": "150d05a3-c4c7-4d47-8afd-89c46247c75e",
+    "title": "Contact Center QA Specialist",
+    "company": "Goodleap",
+    "company_logo": "G",
+    "location": "USA",
+    "description": "About GoodLeap:GoodLeap is a technology company delivering best-in-class financing and software products for sustainable solutions, from solar panels and batteries to energy-efficient HVAC, heat pumps...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer"
+    ],
+    "posted_at": "2025-03-13T20:40:33.490882",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/qa/contact-center-qa-specialist-1980518"
+  },
+  {
+    "id": "70986d06-b67d-4e87-b4ec-2fc5162d357f",
+    "title": "Senior Backend Engineer",
+    "company": "Canopy",
+    "company_logo": "C",
+    "location": "USA",
+    "description": "Senior Backend Engineer\nRemote (Available States:\u00a0Utah, Texas, Florida, North Carolina, Alabama, Virginia)\nAbout Us\nCanopy is a fast-growing SaaS company in South Jordan, Utah building simple, efficie...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-13T20:40:33.494117",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-backend-engineer-1979183"
+  },
+  {
+    "id": "ad1fe5b9-f55f-41e8-bab1-20f736411813",
+    "title": "Senior Manager, Product Compliance",
+    "company": "OpenSea",
+    "company_logo": "O",
+    "location": "USA",
+    "description": "As the world's first and largest NFT marketplace, OpenSea is pioneering a new frontier where art, games, technology and commerce converge in fascinating and unprecedented ways.\u00a0 Our platform empowers ...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer"
+    ],
+    "posted_at": "2025-03-13T20:40:33.497763",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/product/senior-manager-product-compliance-1980798"
+  },
+  {
+    "id": "23933b6b-b76f-4142-aae0-bd29de0ab882",
+    "title": "UX/UI Designer with Graphic Marketing Design Skills",
+    "company": "OneSeven Tech",
+    "company_logo": "O",
+    "location": "Argentina",
+    "description": "OneSeven Tech (OST) is seeking creative professionals on a contract basis to join our team as UX/UI Designers with graphic marketing design capabilities. This position is fully remote with a preferenc...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "designer",
+      "Design",
+      "Marketing"
+    ],
+    "posted_at": "2025-03-13T20:40:45.841447",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/ux-ui-designer-with-graphic-marketing-design-skills-1983553"
+  },
+  {
+    "id": "c7bb8d46-bb0b-41dd-8f1d-b225c4564669",
+    "title": "Senior Product Designer",
+    "company": "Alt",
+    "company_logo": "A",
+    "location": "USA",
+    "description": "Alt is on a mission to revolutionize investing by unlocking the value of alternative assets (collectibles first), a $60B+ market. Currently, we\u2019re focusing on establishing ourselves as the dominant ma...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer",
+      "Design"
+    ],
+    "posted_at": "2025-03-13T20:40:45.843690",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/senior-product-designer-1983551"
+  },
+  {
+    "id": "1d59dae9-ea17-45ea-8e1b-8bb91605ca58",
+    "title": "Senior Web & Brand Designer",
+    "company": "Alrdy",
+    "company_logo": "A",
+    "location": "Germany",
+    "description": "\ud83d\ude80 Join our Design Agency \u201cAlrdy\u201d and shape the future of B2B SaaS websites!\nAt Alrdy, we build high-converting, stunning websites for B2B tech companies. We\u2019ve developed an innovative, fun, and stream...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer",
+      "Design"
+    ],
+    "posted_at": "2025-03-13T20:40:45.846411",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/senior-web-brand-designer-1983619"
+  },
+  {
+    "id": "7d14a541-7e0f-476f-b530-4e4d9926afda",
+    "title": "Senior Full-Stack Engineer",
+    "company": "Amplio",
+    "company_logo": "A",
+    "location": "USA",
+    "description": "Amplio (getamplio.com) is the fastest growing asset recovery firm. Our clients leverage Amplio\u2019s AI-powered platform to resell their surplus and used equipment, providing it with a second life and pre...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer",
+      "Development"
+    ],
+    "posted_at": "2025-03-13T20:40:45.854840",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-full-stack-engineer-1983534"
+  },
+  {
+    "id": "20b64201-d4e1-4483-ae31-fc0194c1c7dd",
+    "title": "CRM Manager",
+    "company": "Car &amp; Classic",
+    "company_logo": "C",
+    "location": "UK",
+    "description": "About youYou are an expert communicator who has managed CRM strategy. You are highly articulate and obsessed with optimising your channel\u2019s performance. You are a Blueshift black belt and can demonstr...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-13T20:41:02.142444",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/crm-manager-1983721"
+  },
+  {
+    "id": "5166fd23-1bc1-4d24-a666-a2240972ab0f",
+    "title": "Senior Data Scientist",
+    "company": "Vantage Analytics",
+    "company_logo": "V",
+    "location": "Canada",
+    "description": "Senior Data Engineer\n\u00a0\nVantage Analytics is looking for a Senior Data Scientist who wants to be part of a small team and have a big impact.\u00a0\n\u00a0\nAs a Senior Data Scientist with Vantage Analytics, you\u2019ll...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-13T20:41:02.149200",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-data-scientist-1982654"
+  },
+  {
+    "id": "40e2787d-da3f-4574-b8b2-dbf84aa09306",
+    "title": "Market Research Analyst",
+    "company": "G2",
+    "company_logo": "G",
+    "location": "USA",
+    "description": "About G2 - Our People\u00a0\nG2 was founded to create a place where people will love to work. We strive to create meaning in work and provide more than just a job: a true calling. At the heart of our commun...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing",
+      "Marketing"
+    ],
+    "posted_at": "2025-03-13T20:41:02.158283",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/data/market-research-analyst-1982652"
+  },
+  {
+    "id": "ba877b12-d1ff-4abd-8672-b9985484560c",
+    "title": "Content Writer",
+    "company": "Getwingapp",
+    "company_logo": "G",
+    "location": "India",
+    "description": "Please whitelist the domains \"lever.co\" and \"hire.lever.co\" with your email provider to make sure you get our emails.Disclaimer: This is a generic job description for the position stated below. Actual...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-13T20:41:09.406613",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/content-writer-1982342"
+  },
+  {
+    "id": "20c74d2d-ca08-4ecc-bcf5-50c58c60dab7",
+    "title": "Technical Writer I",
+    "company": "Jamf",
+    "company_logo": "J",
+    "location": "USA",
+    "description": "At Jamf, we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right. We u...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-13T20:41:09.409396",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/technical-writer-i-1982580"
+  },
+  {
+    "id": "426fca9f-c8d9-4366-9c17-7a917f055505",
+    "title": "Advancement Communications Lead",
+    "company": "Wikimedia Foundation",
+    "company_logo": "W",
+    "location": "Remote (Nigeria)",
+    "description": "ADVANCEMENT COMMUNICATIONS LEAD\nSummary\nThe Wikimedia Foundation is looking for an Advancement Communications Lead to provide proficient and dynamic communications as part of the Advancement departmen...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "writer"
+    ],
+    "posted_at": "2025-03-13T20:41:09.417055",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/advancement-communications-lead-1982374"
+  },
+  {
+    "id": "eb31d1ec-04c6-4cc5-a9e9-6974ea2c8bce",
+    "title": "Operations Project Manager",
+    "company": "Buzz RX",
+    "company_logo": "B",
+    "location": "USA",
+    "description": "Job Title: Operations\u00a0Project Manager\n**Remote Position**Summary:The Operations Project Manager plays a vital role in bridging all teams and business stakeholders to\u00a0ensure successful execution of pro...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-13T20:41:15.781028",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/operations-project-manager-1980956"
+  },
+  {
+    "id": "abecc134-4d1a-4823-84da-c51948f6b866",
+    "title": "Senior Brand Designer",
+    "company": "Cookunity",
+    "company_logo": "C",
+    "location": "Argentina",
+    "description": "About CookUnity\nFood has lost its soul to modern convenience. And with it, has lost the power to nourish, inspire, and connect us. So in 2018, CookUnity was founded as the first-of-its-kind platform t...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "project manager",
+      "Design"
+    ],
+    "posted_at": "2025-03-13T20:41:15.786157",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/senior-brand-designer-1981473"
+  },
+  {
+    "id": "22edf6b4-bce8-4910-8e1c-2e595fcd91b9",
+    "title": "Senior DeFi Specialist",
+    "company": "Windranger",
+    "company_logo": "W",
+    "location": "APAC",
+    "description": "Mantle is building the largest sustainable hub for on-chain finance. Through its core products \u2014 Mantle Network, mETH Protocol, and FBTC \u2014 Mantle is building banking for the next generation by leverag...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer"
+    ],
+    "posted_at": "2025-03-14T14:01:15.546775",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/all-others/senior-defi-specialist-1984115"
+  },
+  {
+    "id": "51248514-bb2c-49ed-b78a-d5418d31fade",
+    "title": "Android Developer",
+    "company": "TextNow",
+    "company_logo": "T",
+    "location": "USA, Canada",
+    "description": "We believe communication belongs to everyone. We exist to democratize phone service.\u202f TextNow\u202fis evolving the way the world connects and that's because we're made up of people with curious minds who b...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-14T14:01:15.550200",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/android-developer-1984307"
+  },
+  {
+    "id": "662afb8a-b604-4a91-b455-9ca7e5a9bc29",
+    "title": "Senior Software Engineer",
+    "company": "Fountain Mexico",
+    "company_logo": "F",
+    "location": "Mexico",
+    "description": "\nWhen you join the Fountain team, you become part of the leading enterprise solution for frontline workforce management. Fountain\u2019s automated, customizable platform provides a seamless applicant exper...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-14T14:01:15.555767",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1984312"
+  },
+  {
+    "id": "b5217a4d-e578-42f1-ad56-4d80c635e7b4",
+    "title": "Senior Backend Developer (Node.js)",
+    "company": "Tether",
+    "company_logo": "T",
+    "location": "Remote (Nigeria)",
+    "description": "Join Tether and Shape the Future of Digital FinanceAt\r\n Tether, we\u2019re not just building products, we\u2019re pioneering a global \r\nfinancial revolution. Our cutting-edge solutions empower businesses\u2014from\r\n...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-14T14:01:15.562259",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-backend-developer-node-js-1984510"
+  },
+  {
+    "id": "87643ca3-b59f-4aff-9953-58b8a5219439",
+    "title": "Lead Technical Writer, Developer Experience",
+    "company": "Trustly",
+    "company_logo": "T",
+    "location": "USA, Canada, Brazil",
+    "description": "WHO WE AREAt Trustly, we\u2019re on a mission to deliver a better way to pay and get paid. Consumers deserve a payment option that prioritizes financial responsibility, and merchants should have the indepe...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development",
+      "Content"
+    ],
+    "posted_at": "2025-03-14T14:01:15.566301",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/lead-technical-writer-developer-experience-1983371"
+  },
+  {
+    "id": "92ff7b78-678c-4142-8430-173fff877049",
+    "title": "Senior Software Engineer",
+    "company": "Highlight",
+    "company_logo": "H",
+    "location": "USA",
+    "description": "Who We Are\u00a030,000 products are launched every year, and 90% of them fail. Highlight is the first and only end-to-end agile product testing platform, enabling the efficient collection of scaled product...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer",
+      "Development"
+    ],
+    "posted_at": "2025-03-14T14:01:24.270381",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1984201"
+  },
+  {
+    "id": "e4cac632-3f22-49f8-8527-1171d210feab",
+    "title": "Performance Test Engineer",
+    "company": "PayPay Securities",
+    "company_logo": "P",
+    "location": "Japan",
+    "description": "About PayPay Securities / PayPay\nPayPay is a FinTech company that has surpassed 65 million users (as of August 2024) in 5 years since its launch in 2018, is rapidly expanding its business scale as a p...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "designer",
+      "Development"
+    ],
+    "posted_at": "2025-03-14T14:01:24.295141",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/qa/performance-test-engineer-1983506"
+  },
+  {
+    "id": "803b958a-fd1f-481c-9841-23e454b841aa",
+    "title": "Product Designer",
+    "company": "Horizon3.ai",
+    "company_logo": "H",
+    "location": "USA",
+    "description": "Get to Know UsHorizon3.ai is a fast-growing, remote cybersecurity company dedicated to the mission of enabling organizations to proactively find and fix and verify exploitable attack vectors before cr...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "designer",
+      "Design"
+    ],
+    "posted_at": "2025-03-14T14:01:24.301416",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/product-designer-1983550"
+  },
+  {
+    "id": "532e1f7e-c6a6-4b0e-a5d6-c2cdd08f97e7",
+    "title": "Data Engineer",
+    "company": "Adswerve, Inc.",
+    "company_logo": "A",
+    "location": "USA",
+    "description": "We're an award-winning data, media and tech consultancy and a leading Google and Adobe partner that helps brands and agencies think beyond clicks and conversions to unlock new opportunities for growth...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing",
+      "Development"
+    ],
+    "posted_at": "2025-03-14T14:01:36.748463",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/data-engineer-1983528"
+  },
+  {
+    "id": "98c3a736-8499-4e19-b7fb-d4e0f9bc726d",
+    "title": "Sr. Staff Product Manager, Data Schema, Governance & Replication",
+    "company": "SentinelOne",
+    "company_logo": "S",
+    "location": "USA",
+    "description": "About Us\nSentinelOne is defining the future of cybersecurity through our XDR platform that automatically prevents, detects, and responds to threats in real-time. Singularity XDR ingests data and lever...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-14T14:01:36.756324",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/product/sr-staff-product-manager-data-schema-governance-replication-1980794"
+  },
+  {
+    "id": "d4cd791f-6bdc-4a76-980d-509432bacf71",
+    "title": "Senior Manager, Web Marketing",
+    "company": "Domino Data Lab",
+    "company_logo": "D",
+    "location": "USA",
+    "description": "Who we are\nAt Domino, we build software that helps the largest, AI-driven organizations build and operate advanced data science and AI solutions at scale. Our platform integrates a streamlined model d...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "marketing",
+      "Marketing"
+    ],
+    "posted_at": "2025-03-14T14:01:36.763182",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/senior-manager-web-marketing-1983622"
+  },
+  {
+    "id": "ad6b5e3f-0d03-4a69-9cce-8c576f101482",
+    "title": "Head of Growth",
+    "company": "Exponential",
+    "company_logo": "E",
+    "location": "USA",
+    "description": "Want to make Decentralized Finance accessible to all? DeFi enables anyone to perform jobs previously reserved for banks like market making or lending. This unlocks incredible yield opportunities for i...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-14T14:01:36.766311",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/head-of-growth-1983621"
+  },
+  {
+    "id": "0adbd11c-2b53-4fe3-80ef-071c50397dc2",
+    "title": "Training Specialist",
+    "company": "Juvare",
+    "company_logo": "J",
+    "location": "USA",
+    "description": "Juvare is a SaaS software company focused on developing innovative enterprise resilience solutions for government agencies, corporations, healthcare providers, and higher education. Juvare solutions h...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-14T14:01:36.788153",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/all-others/training-specialist-1981991"
+  },
+  {
+    "id": "ace98c2e-9a19-4441-88ac-e3c76b86dda5",
+    "title": "Senior QA Manual Test Engineer",
+    "company": "Gorilla Logic",
+    "company_logo": "G",
+    "location": "LATAM",
+    "description": "Gorilla Logic provides nearshore Agile teams to Fortune 500 and SMB companies, bringing unparalleled expertise in the delivery of full-stack web, mobile, and enterprise applications. Our highly collab...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "writer",
+      "Development"
+    ],
+    "posted_at": "2025-03-14T14:01:43.736767",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/qa/senior-qa-manual-test-engineer-1983507"
+  },
+  {
+    "id": "1759ce86-a669-4e63-9a13-40f138f29469",
+    "title": "Senior Technical Writer",
+    "company": "Trustly",
+    "company_logo": "T",
+    "location": "USA, Canada",
+    "description": "WHO WE AREAt Trustly, we\u2019re on a mission to deliver a better way to pay and get paid. Consumers deserve a payment option that prioritizes financial responsibility, and merchants should have the indepe...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-14T14:01:43.741281",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/senior-technical-writer-1983511"
+  },
+  {
+    "id": "c2a9542a-fb27-49b0-9c98-811b6f66fe50",
+    "title": "Finance Scriptwriter",
+    "company": "Paired",
+    "company_logo": "P",
+    "location": "Argentina",
+    "description": "Paired is a global staffing and recruiting agency that pairs remote work with top-tier talent. We are dedicated to connecting skilled professionals with outstanding companies looking for unique expert...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-14T14:01:43.743758",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/finance-scriptwriter-1983512"
+  },
+  {
+    "id": "d6889f89-6e01-432d-b910-89e02bb00e5e",
+    "title": "Scrum Master",
+    "company": "Vendavo",
+    "company_logo": "V",
+    "location": "India",
+    "description": "We\u2019re a growing team, and as we scale, so does our need to focus on expanding our Customer Operations team. You\u2019ll be joining a people-focused company, and as a Scrum Master, you will be responsible f...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-14T14:01:49.388392",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/scrum-master-1983314"
+  },
+  {
+    "id": "52c8b052-ffb9-4ecb-81e5-09e1adc5e484",
+    "title": "Shopify Project Manager",
+    "company": "Visualsoft",
+    "company_logo": "V",
+    "location": "UK",
+    "description": "We are looking for an experienced Shopify Project Manager to join our Projects Team. In this role, you will oversee Shopify-related projects, ensuring timely delivery and alignment with business goals...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-14T14:01:49.397086",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/shopify-project-manager-1983458"
+  },
+  {
+    "id": "4e25005d-e706-4793-802f-37171349a298",
+    "title": "Project Manager",
+    "company": "Lumin Digital",
+    "company_logo": "L",
+    "location": "USA",
+    "description": "Basic FunctionThe Project Manager at Lumin Digital is responsible for implementing Lumin Digital\u2019s online banking platform for financial institutions. This role involves managing complex, multi-phase ...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-14T14:01:49.402579",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/project-manager-1983456"
+  },
+  {
+    "id": "5dc8ec0f-d858-4446-aa62-bdeee67a274e",
+    "title": "Content Writer",
+    "company": "Andela",
+    "company_logo": "A",
+    "location": "Ibadan, Nigeria",
+    "description": "Develop compelling copy that converts visitors into customers.",
+    "requirements": "Ability to adapt writing style for different audiences.",
+    "salary": "\u20a6120,000 - \u20a6220,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "Content",
+      "Full time"
+    ],
+    "posted_at": "2025-03-16T19:00:45.888618",
+    "remote": false,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "edd1d016-45d1-4b84-84cc-0504339db32b",
+    "title": "Marketing Coordinator",
+    "company": "Jumia",
+    "company_logo": "J",
+    "location": "Remote (Africa)",
+    "description": "Develop and execute marketing campaigns to increase brand awareness.",
+    "requirements": "Understanding of customer acquisition and retention strategies.",
+    "salary": "\u20a6710,000 - \u20a6960,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "Marketing",
+      "Remote",
+      "Full time"
+    ],
+    "posted_at": "2025-03-18T22:26:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "1e30462d-f9b4-4d0d-a152-103960ed9dd4",
+    "title": "UI/UX Designer",
+    "company": "Kuda Bank",
+    "company_logo": "K",
+    "location": "Remote (Africa)",
+    "description": "Design engaging visual assets that align with our brand identity.",
+    "requirements": "Understanding of design principles and user-centered design.",
+    "salary": "\u20a6700,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "Design",
+      "Remote",
+      "Full time",
+      "UI/UX"
+    ],
+    "posted_at": "2025-03-19T14:29:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "0d1c8209-8108-4527-b8a4-2666baedd7a3",
+    "title": "Node.js Developer",
+    "company": "Hotels.ng",
+    "company_logo": "H",
+    "location": "Abuja, Nigeria",
+    "description": "Join our engineering team to build scalable and responsive web applications.",
+    "requirements": "Familiarity with version control systems like Git.",
+    "salary": "\u20a6270,000 - \u20a6490,000",
+    "type": "Full-time",
+    "level": "Mid level",
+    "tags": [
+      "Development",
+      "Full time"
+    ],
+    "posted_at": "2025-03-17T09:32:45.888618",
+    "remote": false,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "2ed9bfb2-2f4a-4169-9c07-adb8ac399d91",
+    "title": "Account Manager",
+    "company": "Printivo",
+    "company_logo": "P",
+    "location": "Abeokuta, Nigeria",
+    "description": "Manage resources effectively to deliver projects within budget.",
+    "requirements": "Experience managing projects using Agile or other methodologies.",
+    "salary": "\u20a6520,000 - \u20a6870,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "Management",
+      "Full time"
+    ],
+    "posted_at": "2025-03-16T09:49:45.888618",
+    "remote": false,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "01aa8367-aa2b-45d7-8f0c-cb6f042b589e",
+    "title": "Program Manager",
+    "company": "TechNaija",
+    "company_logo": "T",
+    "location": "Remote (Nigeria)",
+    "description": "Drive strategic initiatives that align with company goals.",
+    "requirements": "Strong leadership and team coordination skills.",
+    "salary": "\u20a6690,000 - \u20a6750,000",
+    "type": "Part-time",
+    "level": "Senior level",
+    "tags": [
+      "Management",
+      "Remote",
+      "Part time"
+    ],
+    "posted_at": "2025-03-16T04:28:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "135075ff-1a00-4cb1-b8aa-cd2166465b17",
+    "title": "Technical Writer",
+    "company": "Andela",
+    "company_logo": "A",
+    "location": "Remote (Africa)",
+    "description": "Craft storytelling content that resonates with our target audience.",
+    "requirements": "Understanding of SEO principles and content optimization.",
+    "salary": "\u20a6130,000 - \u20a6200,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "Content",
+      "Remote",
+      "Full time"
+    ],
+    "posted_at": "2025-03-12T06:25:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "9bf35ee5-86cb-4c24-8f84-57a7264ebc54",
+    "title": "Content Writer",
+    "company": "Jumia",
+    "company_logo": "J",
+    "location": "Remote (Nigeria)",
+    "description": "Create engaging and SEO-optimized content for our website and blog.",
+    "requirements": "Experience creating content for digital platforms.",
+    "salary": "\u20a6310,000 - \u20a6430,000",
+    "type": "Full-time",
+    "level": "Mid level",
+    "tags": [
+      "Content",
+      "Remote",
+      "Full time"
+    ],
+    "posted_at": "2025-03-18T05:32:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "bbaf15c3-b7f4-4161-9097-eac61ae49841",
+    "title": "Node.js Developer",
+    "company": "Carbon",
+    "company_logo": "C",
+    "location": "Jos, Nigeria",
+    "description": "We're looking for a talented developer to help us create innovative solutions.",
+    "requirements": "Proficiency in HTML, CSS, and JavaScript.",
+    "salary": "\u20a6140,000 - \u20a6150,000",
+    "type": "Freelance",
+    "level": "Entry level",
+    "tags": [
+      "Development",
+      "Freelance"
+    ],
+    "posted_at": "2025-03-16T18:48:45.888618",
+    "remote": false,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "57d8914f-e100-4aad-a898-ee589898529d",
+    "title": "Brand Identity Designer",
+    "company": "54gene",
+    "company_logo": "5",
+    "location": "Remote (Nigeria)",
+    "description": "Create beautiful and intuitive user interfaces for our digital products.",
+    "requirements": "Understanding of design principles and user-centered design.",
+    "salary": "\u20a6370,000 - \u20a6430,000",
+    "type": "Freelance",
+    "level": "Mid level",
+    "tags": [
+      "Design",
+      "Remote",
+      "Freelance"
+    ],
+    "posted_at": "2025-03-19T01:33:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "7d97ec20-730e-4156-ad70-ab5c4d90697e",
+    "title": "Product Manager",
+    "company": "Piggyvest",
+    "company_logo": "P",
+    "location": "Remote (Nigeria)",
+    "description": "Coordinate cross-functional teams to achieve business objectives.",
+    "requirements": "Problem-solving skills and strategic thinking.",
+    "salary": "\u20a6550,000 - \u20a6900,000",
+    "type": "Part-time",
+    "level": "Senior level",
+    "tags": [
+      "Management",
+      "Remote",
+      "Part time"
+    ],
+    "posted_at": "2025-03-16T01:33:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "ab1eccc5-5074-4f9a-bbca-3b11bf8f2164",
+    "title": "Software Engineer",
+    "company": "Piggyvest",
+    "company_logo": "P",
+    "location": "Remote (Africa)",
+    "description": "Collaborate with our team to develop robust and maintainable software solutions.",
+    "requirements": "Proficiency in HTML, CSS, and JavaScript.",
+    "salary": "\u20a6100,000 - \u20a6220,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "Development",
+      "Remote",
+      "Full time"
+    ],
+    "posted_at": "2025-03-15T03:30:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "8c760b12-bc83-4706-ae71-cd5aa054b361",
+    "title": "Scrum Master",
+    "company": "NaijaBiz",
+    "company_logo": "N",
+    "location": "Enugu, Nigeria",
+    "description": "Drive strategic initiatives that align with company goals.",
+    "requirements": "Experience with project management tools.",
+    "salary": "\u20a6120,000 - \u20a6240,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "Management",
+      "Full time"
+    ],
+    "posted_at": "2025-03-14T18:45:45.888618",
+    "remote": false,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "fa0c985f-55a5-4723-ae7a-b14f654264b8",
+    "title": "Ghostwriter",
+    "company": "Farmcrowdy",
+    "company_logo": "F",
+    "location": "Onitsha, Nigeria",
+    "description": "Write persuasive marketing materials that highlight our value proposition.",
+    "requirements": "Understanding of SEO principles and content optimization.",
+    "salary": "\u20a6320,000 - \u20a6350,000",
+    "type": "Full-time",
+    "level": "Mid level",
+    "tags": [
+      "Content",
+      "Full time"
+    ],
+    "posted_at": "2025-03-12T15:48:45.888618",
+    "remote": false,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "75b0e323-376d-4d57-b1cd-7002df098986",
+    "title": "Marketing Analyst",
+    "company": "Flutterwave",
+    "company_logo": "F",
+    "location": "Remote (Nigeria)",
+    "description": "Develop and execute marketing campaigns to increase brand awareness.",
+    "requirements": "Familiarity with marketing analytics tools.",
+    "salary": "\u20a6130,000 - \u20a6180,000",
+    "type": "Contract",
+    "level": "Entry level",
+    "tags": [
+      "Marketing",
+      "Remote",
+      "Contract"
+    ],
+    "posted_at": "2025-03-18T06:53:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "8a730b17-c393-47e3-8d7d-6bffc62b1e39",
+    "title": "Marketing Analyst",
+    "company": "TechNaija",
+    "company_logo": "T",
+    "location": "Port Harcourt, Nigeria",
+    "description": "Develop and execute marketing campaigns to increase brand awareness.",
+    "requirements": "Experience with content marketing and email campaigns.",
+    "salary": "\u20a6100,000 - \u20a6110,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "Marketing",
+      "Full time"
+    ],
+    "posted_at": "2025-03-17T07:14:45.888618",
+    "remote": false,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "d0eefcdc-27b8-4a97-8e0d-2cb5bc3d66fd",
+    "title": "3D Designer",
+    "company": "54gene",
+    "company_logo": "5",
+    "location": "Remote (Nationwide)",
+    "description": "Create beautiful and intuitive user interfaces for our digital products.",
+    "requirements": "Experience creating wireframes, prototypes, and user flows.",
+    "salary": "\u20a6560,000 - \u20a6790,000",
+    "type": "Contract",
+    "level": "Senior level",
+    "tags": [
+      "Design",
+      "Remote",
+      "Contract"
+    ],
+    "posted_at": "2025-03-13T16:10:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "a87c6de3-463b-4b8e-b763-d6353c2389a8",
+    "title": "Content Marketer",
+    "company": "BuyCoins",
+    "company_logo": "B",
+    "location": "Owerri, Nigeria",
+    "description": "Develop and execute marketing campaigns to increase brand awareness.",
+    "requirements": "Experience with content marketing and email campaigns.",
+    "salary": "\u20a6100,000 - \u20a6240,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "Marketing",
+      "Full time"
+    ],
+    "posted_at": "2025-03-16T06:24:45.888618",
+    "remote": false,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "94946536-0927-4653-ab33-16a045884453",
+    "title": "Brand Manager",
+    "company": "Jumia",
+    "company_logo": "J",
+    "location": "Remote (Nationwide)",
+    "description": "Drive growth through innovative digital marketing strategies.",
+    "requirements": "Experience with digital marketing channels and strategies.",
+    "salary": "\u20a6720,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "Marketing",
+      "Remote",
+      "Full time"
+    ],
+    "posted_at": "2025-03-14T17:00:45.888618",
+    "remote": true,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "ab7a2163-8e7d-4236-a077-618408335584",
+    "title": "Team Lead",
+    "company": "Kuda Bank",
+    "company_logo": "K",
+    "location": "Lagos, Nigeria",
+    "description": "Coordinate cross-functional teams to achieve business objectives.",
+    "requirements": "Ability to manage multiple priorities and deadlines.",
+    "salary": "\u20a6730,000 - \u20a6970,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "Management",
+      "Full time"
+    ],
+    "posted_at": "2025-03-19T07:58:45.888618",
+    "remote": false,
+    "source": "NaijaFreelance",
+    "generated": true
+  },
+  {
+    "id": "e6018061-b705-4505-abcf-891d9997b09d",
+    "title": "Senior Concept Designer",
+    "company": "Endava",
+    "company_logo": "E",
+    "location": "Spain",
+    "description": "Company DescriptionTechnology is our how. And people are our why. For over two decades, we have been harnessing technology to drive meaningful change.\u00a0Endava Games is a pioneering force in the video g...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Design"
+    ],
+    "posted_at": "2025-03-19T16:18:50.354782",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/senior-concept-designer-1984553"
+  },
+  {
+    "id": "58d16158-853d-46bd-a22f-fe55ab6e90d1",
+    "title": "Senior UX Designer",
+    "company": "Blueacornici",
+    "company_logo": "B",
+    "location": "USA",
+    "description": "COMPANY DESCRIPTIONBlue Acorn iCi is a digital consultancy focused on delivering innovative solutions across customer experience, commerce, and data. Our team of over 400 experts enable clients to nav...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Design"
+    ],
+    "posted_at": "2025-03-19T16:18:50.357298",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/senior-ux-designer-1984554"
+  },
+  {
+    "id": "da1932be-6034-4164-aeaf-842d762aff48",
+    "title": "Full Stack Engineer",
+    "company": "Penbrothers",
+    "company_logo": "P",
+    "location": "Philippines",
+    "description": "About Penbrothers:Penbrothers is an HR & remote talent management partner and one of the fastest growing companies in the Philippines. We provide talented Filipinos with global opportunities in high-g...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-19T16:18:50.359367",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/full-stack-engineer-1985739"
+  },
+  {
+    "id": "78a9a0f1-588f-405e-9566-5e12ddb46ddd",
+    "title": "Senior Ruby on Rails Developer",
+    "company": "Proxify",
+    "company_logo": "P",
+    "location": "CET +/- 3 HOURS",
+    "description": "The Role:\n\u00a0\nWe are looking for a Senior Ruby on Rails developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-19T16:18:50.363575",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1359476"
+  },
+  {
+    "id": "bb1e0875-c772-4429-87e5-2a9f43a4216b",
+    "title": "Senior Technical Lead Developer",
+    "company": "Winid",
+    "company_logo": "W",
+    "location": "Spain",
+    "description": "Winid is a talent acquisition consultancy that offers Executive Search, RPO and Talent Solutions.\nOur purpose is to drive the growth and fulfillment of individuals and organizations. We facilitate ind...",
+    "requirements": "Experience with developer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "developer",
+      "Development"
+    ],
+    "posted_at": "2025-03-19T16:18:50.366745",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/senior-technical-lead-developer-1985824"
+  },
+  {
+    "id": "d9036cf7-ab07-4516-9df2-1072e3118bdb",
+    "title": "Product Manager",
+    "company": "EngagedMD",
+    "company_logo": "E",
+    "location": "USA",
+    "description": "You\u2019re an experienced and driven product manager seeking to improve and build a suite of B2B healthtech products. We\u2019re EngagedMD and we have a patient journey application used by more than 3 million ...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer"
+    ],
+    "posted_at": "2025-03-19T16:18:58.277269",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/product/product-manager-1981907"
+  },
+  {
+    "id": "5bd4dd6d-7df7-4741-8514-359e0dd16296",
+    "title": "Regional Marketing Manager, Organ Health",
+    "company": "Natera",
+    "company_logo": "N",
+    "location": "USA",
+    "description": "SUMMARY: The Organ Health Regional Marketing Manager, Northeast will develop and execute marketing tactics to increase awareness and adoption of Natera\u2019s organ health products in transplantation and n...",
+    "requirements": "Experience with designer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "designer",
+      "Marketing"
+    ],
+    "posted_at": "2025-03-19T16:18:58.286982",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/regional-marketing-manager-organ-health-1984722"
+  },
+  {
+    "id": "cdcd7b9f-66d3-4e99-8f10-ad526352f743",
+    "title": "Head of Product Marketing",
+    "company": "Common Room",
+    "company_logo": "C",
+    "location": "USA",
+    "description": "About usCommon Room is the customer intelligence platform that captures every buying signal, giving companies superpowers with AI enrichment and automation to reach the right person with the right con...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing",
+      "Marketing"
+    ],
+    "posted_at": "2025-03-19T16:19:13.645373",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/head-of-product-marketing-1984720"
+  },
+  {
+    "id": "3f2cb543-6f6f-4a85-8a2c-3a51846b3c8c",
+    "title": "Account Manager",
+    "company": "Relay Commerce",
+    "company_logo": "R",
+    "location": "UK, Portugal, Spain",
+    "description": "About the Company\nRelay Commerce is an e-commerce enablement platform offering scaling solutions across personalized messaging, social commerce, and customer retention, helping merchants navigate the ...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-19T16:19:13.651141",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/customer-support/account-manager-1986160"
+  },
+  {
+    "id": "45fab8c2-6237-404d-8eed-1266135e7b8d",
+    "title": "Technical Customer Success Specialist",
+    "company": "Relay Commerce",
+    "company_logo": "R",
+    "location": "UK, Brazil, Portugal, Spain, Mexico",
+    "description": "About the Company\nRelay Commerce is an e-commerce enablement platform offering scaling solutions across personalized messaging, social commerce, and customer retention, helping merchants navigate the ...",
+    "requirements": "Experience with marketing required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "marketing"
+    ],
+    "posted_at": "2025-03-19T16:19:13.654624",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/customer-support/technical-customer-success-specialist-1986161"
+  },
+  {
+    "id": "99faa24e-8c05-4ee6-b325-e31a4c5c9421",
+    "title": "Customer Care, AI Automation & Content Writer",
+    "company": "Quince",
+    "company_logo": "Q",
+    "location": "USA",
+    "description": "OUR STORY \nQuince was started to challenge the existing idea that nice things should cost a lot. Our mission was simple: create an item of equal or greater quality than the leading luxury brands and s...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-19T16:19:18.705079",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/customer-care-ai-automation-content-writer-1985705"
+  },
+  {
+    "id": "23c2e41f-fdd2-4e3f-97d6-21012935bba4",
+    "title": "Senior Staff Writer, Science & Health",
+    "company": "Find",
+    "company_logo": "F",
+    "location": "USA",
+    "description": "Salon is a spirited home for journalism that takes a critical look at current events, seeks alternatives to the status quo, engages with big ideas and holds power to account. Embracing a wide range of...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-19T16:19:18.707745",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/senior-staff-writer-science-health-1986052"
+  },
+  {
+    "id": "0852bc10-4270-462f-938d-19766b4b66d7",
+    "title": "Technical Writer",
+    "company": "Sigma Software",
+    "company_logo": "S",
+    "location": "Europe",
+    "description": "Company DescriptionWe are looking for an experienced Technical Writer to help implement and optimize a new documentation system.\u00a0As a Technical Writer, you will play a key role in structuring and impr...",
+    "requirements": "Experience with writer required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "writer",
+      "Content"
+    ],
+    "posted_at": "2025-03-19T16:19:18.710412",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/writing/technical-writer-1983368"
+  },
+  {
+    "id": "49961fb1-1e54-4939-90aa-5d9831166b66",
+    "title": "Project Manager",
+    "company": "Deploja AB",
+    "company_logo": "D",
+    "location": "Sweden",
+    "description": "Role:\u2022 Project Intake, scoping & Prioritisation: Support project intake and assessment, aligning projects with business goals and available resources.\u2022 Project Mobilisation: establishing project artef...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-19T16:19:23.706616",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/project-manager-1986012"
+  },
+  {
+    "id": "290ed69d-91a3-479e-8c5a-15eba881a8f8",
+    "title": "Project Manager",
+    "company": "Annax GmbH",
+    "company_logo": "A",
+    "location": "Germany",
+    "description": "\n This description is a summary of our understanding of the job description. Click on 'Apply' button to find out more.\n\n\n\n\n Role Description\n\n\n Als Mitglied der Transit division, sind Sie verantwortli...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-19T16:19:23.710170",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/project-manager-1986013"
+  },
+  {
+    "id": "c954d5ca-eeec-44c4-a2ee-9945ea60c0cb",
+    "title": "Mid Fullstack Dev",
+    "company": "Zipdev",
+    "company_logo": "Z",
+    "location": "LATAM",
+    "description": "Zipdev is looking for a talented Full Stack Developer with 4 to 6 years of experience to join our team. This role is ideal for someone with expertise in SQL, JavaScript, and Rails/Ruby who is eager to...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6300,000 - \u20a6500,000",
+    "type": "Full-time",
+    "level": "Mid level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-19T16:19:23.716404",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-dev/mid-fullstack-dev-1985236"
+  },
+  {
+    "id": "fd647147-de57-4a9f-b10f-664607322014",
+    "title": "VP of Brand",
+    "company": "Everyday Dose Inc.",
+    "company_logo": "E",
+    "location": "USA",
+    "description": "We are seeking an experienced and visionary Vice President of Brand to lead the evolution of Everyday Dose\u2019s brand presence and strengthen our emotional connection with customers. This role will be in...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6150,000 - \u20a6300,000",
+    "type": "Full-time",
+    "level": "Entry level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-19T16:19:23.720538",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/marketing/vp-of-brand-1984912"
+  },
+  {
+    "id": "14d6edf7-0ec8-4d62-bbb2-eec7e023b3e1",
+    "title": "Senior Project Manager",
+    "company": "Clinigen",
+    "company_logo": "C",
+    "location": "USA",
+    "description": "Clinigen is a rapidly growing global specialty pharmaceutical services business with a unique combination of services across the pharmaceutical lifecycle. We currently have over 1,000 employees headqu...",
+    "requirements": "Experience with project manager required.",
+    "salary": "\u20a6500,000 - \u20a6800,000",
+    "type": "Full-time",
+    "level": "Senior level",
+    "tags": [
+      "project manager"
+    ],
+    "posted_at": "2025-03-19T16:19:23.725962",
+    "remote": true,
+    "source": "Remotive",
+    "source_url": "https://remotive.com/remote-jobs/project-management/senior-project-manager-1984362"
+  }
+]

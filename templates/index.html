@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NaijaFreelance - Find Your Next Gig</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <nav class="navbar">
+                <a href="/" class="logo">
+                    <span class="logo-icon"><i class="fas fa-briefcase"></i></span>
+                    Naija<span style="color: var(--primary-color);">Freelance</span>
+                </a>
+                <ul class="nav-menu">
+                    <li class="nav-item"><a href="/" class="nav-link active">Find Jobs</a></li>
+                    <li class="nav-item"><a href="/portfolio" class="nav-link">Portfolio</a></li>
+                    <li class="nav-item"><a href="/resume-builder" class="nav-link">Resume Builder</a></li>
+                    <li class="nav-item"><a href="/upload-job" class="nav-link">Upload Job</a></li>
+                    <li class="nav-item"><a href="/about" class="nav-link">About Us</a></li>
+                </ul>
+                <div class="user-profile">
+                    <i class="fas fa-bell notification-icon"></i>
+                    <div class="user-info">
+                        <div class="user-name">Emma R.</div>
+                        <div class="user-title">Quality Assurance</div>
+                    </div>
+                    <img src="{{ url_for('static', filename='img/profile-photo.jpg') }}" alt="User Avatar" class="user-avatar" onerror="this.src='https://via.placeholder.com/40x40?text=ER'">
+                </div>
+                <div class="hamburger">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">Find Your Dream Job Here</h1>
+                <p class="hero-subtitle">Browse through the latest opportunities for Nigerian freelancers</p>
+                
+                <!-- Search Form -->
+                <form class="search-form" id="search-form">
+                    <input type="text" class="search-input" id="job-search" placeholder="Job title or keyword">
+                    <input type="text" class="search-input" id="location-search" placeholder="Add country or city">
+                    <button type="submit" class="search-btn" id="search-btn">Search</button>
+                </form>
+            </div>
+            <div class="hero-images">
+                <img src="{{ url_for('static', filename='img/profile-pic11-- (1).png') }}" alt="" class="hero-image" onerror="this.src='https://via.placeholder.com/300x300?text='">
+                <img src="{{ url_for('static', filename='img/profile-pic11-- (1).png') }}" alt="" class="hero-image" onerror="this.src='https://via.placeholder.com/300x300?text='">
+                <img src="{{ url_for('static', filename='img/profile-pic11-- (1).png') }}" alt="" class="hero-image" onerror="this.src='https://via.placeholder.com/300x300?text='">
+                <img src="{{ url_for('static', filename='img/profile-pic11-- (1).png') }}" alt="" class="hero-image" onerror="this.src='https://via.placeholder.com/300x300?text='">
+            </div>
+        </div>
+    </section>
+
+    <!-- Job Categories -->
+    <div class="container">
+        <div class="job-categories">
+            <span class="category-tag active">All</span>
+            <span class="category-tag">Fulltime</span>
+            <span class="category-tag">Remote</span>
+            <span class="category-tag">Product designer</span>
+            <span class="category-tag">Senior level</span>
+            <span class="category-tag">Illustrator</span>
+            <span class="category-tag">Co-Founder</span>
+            <span class="category-tag">Senior Dev</span>
+            <span class="category-tag">Researcher</span>
+            <span class="category-tag">Project manager</span>
+            <span class="category-tag">Designer</span>
+            <span class="category-tag">Graphic designer</span>
+        </div>
+    </div>
+
+    <!-- Job Board -->
+    <section class="job-board">
+        <div class="container">
+            <div class="job-board-container">
+                <!-- Filter Sidebar -->
+                <div class="filter-sidebar">
+                    <h3>Filter</h3>
+                    
+                    <div class="filter-section">
+                        <input type="text" class="filter-search" placeholder="Company, skill, tag...">
+                    </div>
+                    
+                    <div class="filter-section">
+                        <div class="filter-title">
+                            <span>Speciality</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </div>
+                        <div class="filter-options">
+                            <div class="filter-option">
+                                <input type="checkbox" id="design" class="filter-checkbox">
+                                <label for="design" class="filter-label">Design</label>
+                                <span class="filter-count">42</span>
+                            </div>
+                            <div class="filter-option">
+                                <input type="checkbox" id="development" class="filter-checkbox">
+                                <label for="development" class="filter-label">Development</label>
+                                <span class="filter-count">38</span>
+                            </div>
+                            <div class="filter-option">
+                                <input type="checkbox" id="marketing" class="filter-checkbox">
+                                <label for="marketing" class="filter-label">Marketing</label>
+                                <span class="filter-count">24</span>
+                            </div>
+                            <div class="filter-option">
+                                <input type="checkbox" id="product" class="filter-checkbox">
+                                <label for="product" class="filter-label">Product</label>
+                                <span class="filter-count">18</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-section">
+                        <div class="filter-title">
+                            <span>Employment</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </div>
+                        <div class="filter-options">
+                            <div class="filter-option">
+                                <input type="checkbox" id="fulltime" class="filter-checkbox" checked>
+                                <label for="fulltime" class="filter-label">Fulltime</label>
+                                <span class="filter-count">86</span>
+                            </div>
+                            <div class="filter-option">
+                                <input type="checkbox" id="senior-level" class="filter-checkbox" checked>
+                                <label for="senior-level" class="filter-label">Senior level</label>
+                                <span class="filter-count">52</span>
+                            </div>
+                            <div class="filter-option">
+                                <input type="checkbox" id="remote" class="filter-checkbox" checked>
+                                <label for="remote" class="filter-label">Remote</label>
+                                <span class="filter-count">43</span>
+                            </div>
+                            <div class="filter-option">
+                                <input type="checkbox" id="contract" class="filter-checkbox">
+                                <label for="contract" class="filter-label">Contract</label>
+                                <span class="filter-count">21</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-section">
+                        <div class="filter-title">
+                            <span>Salary Type</span>
+                            <i class="fas fa-chevron-down"></i>
+                        </div>
+                        <div class="filter-options">
+                            <div class="salary-range">
+                                <input type="range" min="0" max="1000000" value="500000" class="range-slider" id="salary-slider">
+                                <div class="range-values">
+                                    <span>₦0</span>
+                                    <span>₦1,000,000</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="filter-actions">
+                        <button class="btn btn-outline">Reset</button>
+                        <button class="btn">Apply</button>
+                    </div>
+                </div>
+                
+                <!-- Jobs List -->
+                <div class="jobs-list">
+                    <div class="jobs-header">
+                        <!-- <div class="jobs-count">8 Jobs Found</div> -->
+                        <div class="jobs-sort">
+                            <span class="sort-label">Sort by:</span>
+                            <select class="sort-select">
+                                <option>Newest Post</option>
+                                <option>Oldest Post</option>
+                                <option>Highest Salary</option>
+                                <option>Lowest Salary</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="jobs-container" id="jobs-container">
+                        <!-- Jobs will be loaded dynamically via JavaScript -->
+                        <div class="loading-spinner">
+                            <i class="fas fa-spinner fa-spin"></i>
+                            <p>Loading jobs...</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Pagination -->
+                    <div class="pagination" id="pagination">
+                        <button class="pagination-btn active">1</button>
+                        <button class="pagination-btn">2</button>
+                        <button class="pagination-btn">3</button>
+                        <button class="pagination-btn">
+                            <i class="fas fa-chevron-right"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-container">
+                <div class="footer-column">
+                    <h3>NaijaFreelance</h3>
+                    <p>Connecting Nigerian freelancers with quality opportunities since 2023.</p>
+                </div>
+                <div class="footer-column">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="/">Find Jobs</a></li>
+                        <li><a href="/resume-builder">Resume Builder</a></li>
+                        <li><a href="/portfolio">Portfolio</a></li>
+                        <li><a href="/contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Contact Us</h3>
+                    <ul class="footer-links">
+                        <li><i class="fas fa-envelope"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="533a3d353c133d323a3932352136363f323d30367d303c3e">[email&#160;protected]</a></li>
+                        <li><i class="fas fa-phone"></i> +234 123 456 7890</li>
+                        <li><i class="fas fa-map-marker-alt"></i> Lagos, Nigeria</li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Follow Us</h3>
+                    <div class="social-links">
+                        <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 NaijaFreelance. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
+

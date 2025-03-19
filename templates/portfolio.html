@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - NaijaFreelance</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <nav class="navbar">
+                <a href="/" class="logo">Naija<span>Freelance</span></a>
+                <ul class="nav-menu">
+                    <li class="nav-item"><a href="/" class="nav-link">Job Board</a></li>
+                    <li class="nav-item"><a href="/resume-builder" class="nav-link">Resume Builder</a></li>
+                    <li class="nav-item"><a href="/portfolio" class="nav-link">Portfolio</a></li>
+                    <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+                </ul>
+                <div class="hamburger">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Portfolio -->
+    <section class="portfolio">
+        <div class="container">
+            <h1 class="section-title">My Portfolio</h1>
+            <p class="section-subtitle">Showcasing my skills and projects</p>
+            
+            <!-- About Section -->
+            <div class="about-section">
+                <div class="about-image">
+                    <img src="{{ url_for('static', filename='img/profile-pic11-- (1).png') }}" alt="Profile Image" onerror="this.src='https://via.placeholder.com/500x500?text=Profile+Image'">
+                </div>
+                <div class="about-content">
+                    <h2>About Me</h2>
+                    <p>Hello! I'm Chimdike, a tech enthusiast and full-stack developer passionate about creating innovative digital solutions. I’ve completed the ALX program and advanced to Stage 4 of the HNG Internship, where I gained hands-on experience in both backend and frontend development. I have a solid foundation in Python, JavaScript, HTML, CSS, TailwindCSS, ReactJS, and Node.js, and I’ve also worked with tools like Docker, PostgreSQL, and Nginx. I enjoy solving complex problems, building user-friendly applications, and continuously learning to improve my craft. Let’s collaborate and bring your ideas to life!</p>
+                    <h3>My Skills</h3>
+                    <div class="skills-container">
+                        <span class="skill-tag">HTML5</span>
+                        <span class="skill-tag">CSS3</span>
+                        <span class="skill-tag">JavaScript</span>
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">Flask</span>
+                        <span class="skill-tag">React</span>
+                        <span class="skill-tag">Responsive Design</span>
+                        <span class="skill-tag">UI/UX</span>
+                        <span class="skill-tag">Firebase</span>
+                    </div>
+                    <a href="/contact" class="btn">Contact Me</a>
+                </div>
+            </div>
+            
+            <!-- Projects -->
+            <h2 class="section-title">My Projects</h2>
+            <div class="projects-grid">
+                <!-- Project 1 -->
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="{{ url_for('static', filename='img/project1.jpg') }}" alt="Project 1" onerror="this.src='https://via.placeholder.com/600x400?text=E-commerce+Website'">
+                    </div>
+                    <div class="project-content">
+                        <h3>E-commerce Website</h3>
+                        <p>A fully responsive e-commerce platform for a local fashion brand with payment integration.</p>
+                        <div class="project-tags">
+                            <span class="project-tag">HTML</span>
+                            <span class="project-tag">CSS</span>
+                            <span class="project-tag">JavaScript</span>
+                            <span class="project-tag">Python</span>
+                            <span class="project-tag">Flask</span>
+                        </div>
+                        <a href="#" class="btn btn-outline">View Project</a>
+                    </div>
+                </div>
+                
+                <!-- Project 2 -->
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="{{ url_for('static', filename='img/project2.jpg') }}" alt="Project 2" onerror="this.src='https://via.placeholder.com/600x400?text=Portfolio+Website'">
+                    </div>
+                    <div class="project-content">
+                        <h3>Portfolio Website</h3>
+                        <p>A modern portfolio website for a photographer showcasing their work with a gallery feature.</p>
+                        <div class="project-tags">
+                            <span class="project-tag">HTML</span>
+                            <span class="project-tag">CSS</span>
+                            <span class="project-tag">JavaScript</span>
+                        </div>
+                        <a href="#" class="btn btn-outline">View Project</a>
+                    </div>
+                </div>
+                
+                <!-- Project 3 -->
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="{{ url_for('static', filename='img/project3.jpg') }}" alt="Project 3" onerror="this.src='https://via.placeholder.com/600x400?text=Task+Manager+App'">
+                    </div>
+                    <div class="project-content">
+                        <h3>Task Manager App</h3>
+                        <p>A web application for managing tasks and projects with user authentication and real-time updates.</p>
+                        <div class="project-tags">
+                            <span class="project-tag">HTML</span>
+                            <span class="project-tag">CSS</span>
+                            <span class="project-tag">JavaScript</span>
+                            <span class="project-tag">Firebase</span>
+                        </div>
+                        <a href="#" class="btn btn-outline">View Project</a>
+                    </div>
+                </div>
+                
+                <!-- Project 4 -->
+                <div class="project-card">
+                    <div class="project-image">
+                        <img src="{{ url_for('static', filename='img/project4.jpg') }}" alt="Project 4" onerror="this.src='https://via.placeholder.com/600x400?text=Blog+Platform'">
+                    </div>
+                    <div class="project-content">
+                        <h3>Blog Platform</h3>
+                        <p>A custom blog platform with content management system for a Nigerian tech publication.</p>
+                        <div class="project-tags">
+                            <span class="project-tag">HTML</span>
+                            <span class="project-tag">CSS</span>
+                            <span class="project-tag">JavaScript</span>
+                            <span class="project-tag">Python</span>
+                            <span class="project-tag">Flask</span>
+                        </div>
+                        <a href="#" class="btn btn-outline">View Project</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-container">
+                <div class="footer-column">
+                    <h3>NaijaFreelance</h3>
+                    <p>Connecting Nigerian freelancers with quality opportunities since 2023.</p>
+                </div>
+                <div class="footer-column">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="/">Job Board</a></li>
+                        <li><a href="/resume-builder">Resume Builder</a></li>
+                        <li><a href="/portfolio">Portfolio</a></li>
+                        <li><a href="/contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Contact Us</h3>
+                    <ul class="footer-links">
+                        <li><i class="fas fa-envelope"></i> info@naijafreelance.com</li>
+                        <li><i class="fas fa-phone"></i> +234 123 456 7890</li>
+                        <li><i class="fas fa-map-marker-alt"></i> Lagos, Nigeria</li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Follow Us</h3>
+                    <div class="social-links">
+                        <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2023 NaijaFreelance. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
+

@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Builder - NaijaFreelance</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <nav class="navbar">
+                <a href="/" class="logo">Naija<span>Freelance</span></a>
+                <ul class="nav-menu">
+                    <li class="nav-item"><a href="/" class="nav-link">Job Board</a></li>
+                    <li class="nav-item"><a href="/resume-builder" class="nav-link">Resume Builder</a></li>
+                    <li class="nav-item"><a href="/portfolio" class="nav-link">Portfolio</a></li>
+                    <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+                </ul>
+                <div class="hamburger">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Resume Builder -->
+    <section class="resume-builder">
+        <div class="container">
+            <h1 class="section-title">Build Your Professional Resume</h1>
+            <p class="section-subtitle">Create a standout resume that gets you noticed by employers</p>
+            
+            <div class="resume-form">
+                <form id="resumeForm">
+                    <!-- Personal Information -->
+                    <div class="form-section">
+                        <h3>Personal Information</h3>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="fullName">Full Name</label>
+                                <input type="text" class="form-control" id="fullName" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="jobTitle">Professional Title</label>
+                                <input type="text" class="form-control" id="jobTitle" placeholder="e.g., Frontend Developer">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" class="form-control" id="email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="phone">Phone</label>
+                                <input type="tel" class="form-control" id="phone" required>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="location">Location</label>
+                                <input type="text" class="form-control" id="location" placeholder="e.g., Lagos, Nigeria">
+                            </div>
+                            <div class="form-group">
+                                <label for="website">Website/Portfolio</label>
+                                <input type="url" class="form-control" id="website" placeholder="e.g., https://yourportfolio.com">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Professional Summary -->
+                    <div class="form-section">
+                        <h3>Professional Summary</h3>
+                        <div class="form-group">
+                            <textarea class="form-control" id="summary" rows="4" placeholder="Write a compelling summary of your professional background and key strengths..."></textarea>
+                        </div>
+                    </div>
+                    
+                    <!-- Work Experience -->
+                    <div class="form-section" id="experienceSection">
+                        <h3>Work Experience</h3>
+                        <div class="experience-item">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label>Job Title</label>
+                                    <input type="text" class="form-control" name="expTitle[]" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Company</label>
+                                    <input type="text" class="form-control" name="expCompany[]" required>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label>Start Date</label>
+                                    <input type="month" class="form-control" name="expStartDate[]" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>End Date</label>
+                                    <input type="month" class="form-control" name="expEndDate[]">
+                                    <div class="checkbox-group">
+                                        <input type="checkbox" id="currentJob" name="currentJob[]">
+                                        <label for="currentJob">I currently work here</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label>Description</label>
+                                <textarea class="form-control" name="expDescription[]" rows="3" placeholder="Describe your responsibilities and achievements..."></textarea>
+                            </div>
+                        </div>
+                        <button type="button" class="add-more-btn" id="addExperience">
+                            <i class="fas fa-plus"></i> Add Another Experience
+                        </button>
+                    </div>
+                    
+                    <!-- Education -->
+                    <div class="form-section" id="educationSection">
+                        <h3>Education</h3>
+                        <div class="education-item">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label>Degree/Certificate</label>
+                                    <input type="text" class="form-control" name="eduDegree[]" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Institution</label>
+                                    <input type="text" class="form-control" name="eduInstitution[]" required>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label>Start Date</label>
+                                    <input type="month" class="form-control" name="eduStartDate[]" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>End Date</label>
+                                    <input type="month" class="form-control" name="eduEndDate[]">
+                                    <div class="checkbox-group">
+                                        <input type="checkbox" id="currentEducation" name="currentEducation[]">
+                                        <label for="currentEducation">I'm currently studying here</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label>Description</label>
+                                <textarea class="form-control" name="eduDescription[]" rows="2" placeholder="Describe your studies, achievements, etc..."></textarea>
+                            </div>
+                        </div>
+                        <button type="button" class="add-more-btn" id="addEducation">
+                            <i class="fas fa-plus"></i> Add Another Education
+                        </button>
+                    </div>
+                    
+                    <!-- Skills -->
+                    <div class="form-section">
+                        <h3>Skills</h3>
+                        <div class="form-group">
+                            <label>List your skills (separated by commas)</label>
+                            <input type="text" class="form-control" id="skills" placeholder="e.g., HTML, CSS, JavaScript, Python, Flask, React">
+                        </div>
+                    </div>
+                    
+                    <!-- Form Actions -->
+                    <div class="form-actions">
+                        <button type="button" class="btn btn-outline" id="previewResume">Preview Resume</button>
+                        <button type="submit" class="btn">Generate Resume</button>
+                    </div>
+                </form>
+            </div>
+            
+            <!-- Resume Preview (Hidden by default) -->
+            <div class="resume-preview" id="resumePreview" style="display: none;">
+                <h2>Resume Preview</h2>
+                <div id="previewContent"></div>
+                <div class="form-actions">
+                    <button type="button" class="btn btn-outline" id="editResume">Edit Resume</button>
+                    <button type="button" class="btn" id="downloadResume">Download PDF</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-container">
+                <div class="footer-column">
+                    <h3>NaijaFreelance</h3>
+                    <p>Connecting Nigerian freelancers with quality opportunities since 2023.</p>
+                </div>
+                <div class="footer-column">
+                    <h3>Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="/">Job Board</a></li>
+                        <li><a href="/resume-builder">Resume Builder</a></li>
+                        <li><a href="/portfolio">Portfolio</a></li>
+                        <li><a href="/contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Contact Us</h3>
+                    <ul class="footer-links">
+                        <li><i class="fas fa-envelope"></i> info@naijafreelance.com</li>
+                        <li><i class="fas fa-phone"></i> +234 123 456 7890</li>
+                        <li><i class="fas fa-map-marker-alt"></i> Lagos, Nigeria</li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Follow Us</h3>
+                    <div class="social-links">
+                        <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2023 NaijaFreelance. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/resume-builder.js') }}"></script>
+</body>
+</html>
+
